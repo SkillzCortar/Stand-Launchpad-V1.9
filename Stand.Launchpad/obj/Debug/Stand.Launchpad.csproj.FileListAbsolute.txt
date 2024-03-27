@@ -1,0 +1,10 @@
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\bin\Debug\Stand Launchpad.exe
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\bin\Debug\Stand Launchpad.pdb
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand.Launchpad.csproj.AssemblyReference.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand_Launchpad.Changelog.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand_Launchpad.Launchpad.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand_Launchpad.Properties.Resources.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand.Launchpad.csproj.GenerateResource.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand.Launchpad.csproj.CoreCompileInputs.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand Launchpad.exe
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Stand.Launchpad\obj\Debug\Stand Launchpad.pdb

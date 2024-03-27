@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stand Launchpad", "Stand.Launchpad.csproj", "{B9D7E491-71BD-4011-9780-32A73F48E133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D7E491-71BD-4011-9780-32A73F48E133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D7E491-71BD-4011-9780-32A73F48E133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D7E491-71BD-4011-9780-32A73F48E133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D7E491-71BD-4011-9780-32A73F48E133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
